@@ -1,6 +1,6 @@
 {
   "name": "@icony/vue-container",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "vue/vue-router/vuex/axios/js-cookie based,resolve dependency inconsistencies problem of multiple Vue projects ",
   "main": "index.js",
   "scripts": {
